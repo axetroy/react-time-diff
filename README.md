@@ -1,5 +1,7 @@
 # react-time-diff
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/react-time-diff.svg)](https://greenkeeper.io/)
+
 Calculate the time differences and rend component.
 
 ## Install
